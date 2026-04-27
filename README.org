@@ -4,6 +4,6 @@ A library for autoloading similar to Emacs autoload.
 
 |---------+------------------------------------------------------------|
 | source  | git:https://github.com/melisgl/autoload.git               |
-| commit  | f3541ed                                                    |
+| commit  | ae57b3f                                                    |
 | systems | autoload autoload-doc                                     |
 |---------+------------------------------------------------------------|
